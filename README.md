@@ -57,6 +57,7 @@ Refer to the provided rubrics for detailed marking scheme, which includes:
 3. Customer segmentation insights
 4. Product return analysis
 5. Regional performance metrics
+![image](https://github.com/user-attachments/assets/508b4532-0000-4ce7-800a-1bcbc6d549c6)
 
 
 
