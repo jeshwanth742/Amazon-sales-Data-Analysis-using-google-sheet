@@ -1,5 +1,8 @@
 # Amazon Sales Analysis Dashboard 📊
 
+![image](https://github.com/user-attachments/assets/05df1750-2b2b-4a65-864e-2ad8c0d6a86b)
+
+
 ## Overview
 This project analyzes Amazon seller data to gain insights into sales performance, customer behavior, and product returns. The analysis includes creating an interactive dashboard to visualize key metrics and trends in the dataset.
 
@@ -57,7 +60,6 @@ Refer to the provided rubrics for detailed marking scheme, which includes:
 3. Customer segmentation insights
 4. Product return analysis
 5. Regional performance metrics
-![image](https://github.com/user-attachments/assets/508b4532-0000-4ce7-800a-1bcbc6d549c6)
 
 
 
